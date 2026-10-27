@@ -1,0 +1,16 @@
+# Thư viện cài bằng npm install
+node_modules/
+
+# Biến môi trường thật (mật khẩu, key) — chỉ đẩy .env.example
+.env
+.env.local
+
+# File build
+dist/
+.build-check/
+
+# Linh tinh
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
